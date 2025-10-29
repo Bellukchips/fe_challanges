@@ -1,0 +1,314 @@
+{
+  "data": [
+    {
+      "id": "job_4188",
+      "slug": "ui-ux-designer_7100",
+      "title": "UI UX Designer",
+      "status": "active",
+      "description": "<p>Test</p>",
+      "salary_range": {
+        "min": 2000000,
+        "max": 9000000,
+        "currency": "IDR",
+        "display_text": "Rp2.000.000 - Rp9.000.000"
+      },
+      "list_card": {
+        "badge": "active",
+        "started_on_text": "started on 29 Oktober 2025",
+        "cta": "Manage Job"
+      },
+      "profile_requirements": [
+        {
+          "key": "full_name",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "gender",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "domicile",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "email",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "phone_number",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "linkedin_link",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "date_of_birth",
+          "validation": {
+            "required": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "job_7402",
+      "slug": "front-end-engineer_7931",
+      "title": "Front End Engineer",
+      "status": "active",
+      "description": "<ul class=\"list-disc ml-3\"><li><p>Collaborating with backend engineers and 3rd parties to create highly configurable and cross-platform web experiences.</p></li><li><p>Exploring real-time web applications, immersive sites, and 3D-powered interfaces using WebGL/WebGPU.</p></li><li><p>Implementing browser-level hardware interactions (camera, microphone, audio, screen capture/record).</p></li><li><p>Building design systems and scalable components with product designers, ensuring pixel-perfect quality and branding consistency.</p></li><li><p>Turning large datasets into elegant, interactive data visualizations with unique UI requirements.</p></li><li><p>Strengthening test coverage with Playwright and similar frameworks to ensure robust and reliable web apps.</p></li><li><p>Conducting full product lifecycles, from idea generation to design, implementation, testing, deployment, and maintenance.</p></li><li><p>Continuously improving frontend performance to meet world-class standards.</p></li><li><p>Providing input on feasibility, timelines, and trade-offs while working with product and business divisions.</p></li><li><p>Engaging with users and stakeholders to understand their needs and translate them into frontend improvements.</p></li></ul><p></p>",
+      "salary_range": {
+        "min": 7000000,
+        "max": 8000000,
+        "currency": "IDR",
+        "display_text": "Rp7.000.000 - Rp8.000.000"
+      },
+      "list_card": {
+        "badge": "active",
+        "started_on_text": "started on 28 Oktober 2025",
+        "cta": "Manage Job"
+      },
+      "profile_requirements": [
+        {
+          "key": "photo_profile",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "key": "full_name",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "gender",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "domicile",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "email",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "phone_number",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "linkedin_link",
+          "validation": {
+            "required": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "job_74012",
+      "slug": "back-end-engineer_79223",
+      "title": "Back End Engineer",
+      "status": "active",
+      "description": "<ul class=\"list-disc ml-3\"><li><p>Collaborating with backend engineers and 3rd parties to create highly configurable and cross-platform web experiences.</p></li><li><p>Exploring real-time web applications, immersive sites, and 3D-powered interfaces using WebGL/WebGPU.</p></li><li><p>Implementing browser-level hardware interactions (camera, microphone, audio, screen capture/record).</p></li><li><p>Building design systems and scalable components with product designers, ensuring pixel-perfect quality and branding consistency.</p></li><li><p>Turning large datasets into elegant, interactive data visualizations with unique UI requirements.</p></li><li><p>Strengthening test coverage with Playwright and similar frameworks to ensure robust and reliable web apps.</p></li><li><p>Conducting full product lifecycles, from idea generation to design, implementation, testing, deployment, and maintenance.</p></li><li><p>Continuously improving frontend performance to meet world-class standards.</p></li><li><p>Providing input on feasibility, timelines, and trade-offs while working with product and business divisions.</p></li><li><p>Engaging with users and stakeholders to understand their needs and translate them into frontend improvements.</p></li></ul><p></p>",
+      "salary_range": {
+        "min": 7000000,
+        "max": 8000000,
+        "currency": "IDR",
+        "display_text": "Rp7.000.000 - Rp8.000.000"
+      },
+      "list_card": {
+        "badge": "active",
+        "started_on_text": "started on 28 Oktober 2025",
+        "cta": "Manage Job"
+      },
+      "profile_requirements": [
+        {
+          "key": "photo_profile",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "key": "full_name",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "gender",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "domicile",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "email",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "phone_number",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "linkedin_link",
+          "validation": {
+            "required": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "job_7401",
+      "slug": "back-end-engineer_7923",
+      "title": "Back End Engineer",
+      "status": "active",
+      "description": "<ul class=\"list-disc ml-3\"><li><p>Collaborating with backend engineers and 3rd parties to create highly configurable and cross-platform web experiences.</p></li><li><p>Exploring real-time web applications, immersive sites, and 3D-powered interfaces using WebGL/WebGPU.</p></li><li><p>Implementing browser-level hardware interactions (camera, microphone, audio, screen capture/record).</p></li><li><p>Building design systems and scalable components with product designers, ensuring pixel-perfect quality and branding consistency.</p></li><li><p>Turning large datasets into elegant, interactive data visualizations with unique UI requirements.</p></li><li><p>Strengthening test coverage with Playwright and similar frameworks to ensure robust and reliable web apps.</p></li><li><p>Conducting full product lifecycles, from idea generation to design, implementation, testing, deployment, and maintenance.</p></li><li><p>Continuously improving frontend performance to meet world-class standards.</p></li><li><p>Providing input on feasibility, timelines, and trade-offs while working with product and business divisions.</p></li><li><p>Engaging with users and stakeholders to understand their needs and translate them into frontend improvements.</p></li></ul><p></p>",
+      "salary_range": {
+        "min": 7000000,
+        "max": 8000000,
+        "currency": "IDR",
+        "display_text": "Rp7.000.000 - Rp8.000.000"
+      },
+      "list_card": {
+        "badge": "active",
+        "started_on_text": "started on 28 Oktober 2025",
+        "cta": "Manage Job"
+      },
+      "profile_requirements": [
+        {
+          "key": "photo_profile",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "key": "full_name",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "gender",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "domicile",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "email",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "phone_number",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "linkedin_link",
+          "validation": {
+            "required": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "job_74321",
+      "slug": "back-end-engineer_73223",
+      "title": "Back End Engineer",
+      "status": "active",
+      "description": "<ul class=\"list-disc ml-3\"><li><p>Collaborating with backend engineers and 3rd parties to create highly configurable and cross-platform web experiences.</p></li><li><p>Exploring real-time web applications, immersive sites, and 3D-powered interfaces using WebGL/WebGPU.</p></li><li><p>Implementing browser-level hardware interactions (camera, microphone, audio, screen capture/record).</p></li><li><p>Building design systems and scalable components with product designers, ensuring pixel-perfect quality and branding consistency.</p></li><li><p>Turning large datasets into elegant, interactive data visualizations with unique UI requirements.</p></li><li><p>Strengthening test coverage with Playwright and similar frameworks to ensure robust and reliable web apps.</p></li><li><p>Conducting full product lifecycles, from idea generation to design, implementation, testing, deployment, and maintenance.</p></li><li><p>Continuously improving frontend performance to meet world-class standards.</p></li><li><p>Providing input on feasibility, timelines, and trade-offs while working with product and business divisions.</p></li><li><p>Engaging with users and stakeholders to understand their needs and translate them into frontend improvements.</p></li></ul><p></p>",
+      "salary_range": {
+        "min": 7000000,
+        "max": 8000000,
+        "currency": "IDR",
+        "display_text": "Rp7.000.000 - Rp8.000.000"
+      },
+      "list_card": {
+        "badge": "active",
+        "started_on_text": "started on 28 Oktober 2025",
+        "cta": "Manage Job"
+      },
+      "profile_requirements": [
+        {
+          "key": "photo_profile",
+          "validation": {
+            "required": false
+          }
+        },
+        {
+          "key": "full_name",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "gender",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "domicile",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "email",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "phone_number",
+          "validation": {
+            "required": true
+          }
+        },
+        {
+          "key": "linkedin_link",
+          "validation": {
+            "required": true
+          }
+        }
+      ]
+    }
+  ]
+}
