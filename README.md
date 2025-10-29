@@ -172,8 +172,8 @@ A modern, full-featured hiring management web application built with Next.js 16,
 
 **Your Name**
 
--   Email: [your.email@example.com](mailto:your.email@example.com)
--   GitHub: [@yourusername](https://github.com/yourusername)
+-   Email: [lukmancode200@gmail.com](mailto:lukmancode200@gmail.com)
+-   GitHub: [@Bellukchips](https://github.com/Bellukchips)
 
 ## 🙏 Acknowledgments
 
